@@ -2,7 +2,7 @@
 	"workbench.colorTheme": "One Dark Pro",
 	"workbench.iconTheme": "symbols",
 	"workbench.productIconTheme": "fluent-icons",
-    "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+    "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06'",
 	"editor.fontSize": 14,
 	"editor.fontWeight": "350",
     "editor.minimap.enabled": false,
