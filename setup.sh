@@ -156,7 +156,7 @@ main() {
 
   log "Installing runtimes..."
   install_formula_if_missing "node"
-  install_formula_if_missing "bun"
+  install_formula_if_missing "oven-sh/bun/bun"
 
   log "Installing agent tools..."
   install_formula_if_missing "codex"
